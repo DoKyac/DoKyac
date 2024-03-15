@@ -1,4 +1,7 @@
-### Hi there 👋
+### 醵
+
+- 🌱 Hello, I'm Do_Kyac!
+- 😄 Have A Good Day!
 
 <!--
 **DoKyac/DoKyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
